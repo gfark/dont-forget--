@@ -12,7 +12,7 @@ struct Home: View{
     
     @State var currentDate: Date = Date()
     @EnvironmentObject var taskEnvironment: TodaysTask
-    //upload
+    //uploa
     
     var body: some View{
         

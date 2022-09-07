@@ -9,7 +9,7 @@ import SwiftUI
 import Foundation
 
 struct SetUpofTasks: View {
-    //upload
+    //uploa
     @EnvironmentObject var taskEnvironment: TodaysTask
 
 

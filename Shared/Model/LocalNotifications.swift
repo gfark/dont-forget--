@@ -9,7 +9,7 @@ import SwiftUI
 import UserNotifications
 
 class NotificationManager {
-    //upload
+    //uploa
     static let instance =  NotificationManager()
     
     func requestAuthorization(){
